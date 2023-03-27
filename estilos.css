@@ -1,0 +1,74 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+@font-face {
+    font-family: Dosis;
+    src: url(./Tipografia/Dosis-Light.ttf);
+}
+
+.img-section {
+    margin-top: 150px;
+    margin-left: 200px;
+}
+
+.header {
+    height: 110px;
+    display: flex;
+}
+
+.logo {
+    margin-left: 20px;
+}
+
+.ul {
+    text-decoration: none;
+    list-style: none;
+    font-size: 20pt;
+    display: flex;
+    padding-left: 400px;
+    
+}
+
+.li {
+    display: inline-block;
+    padding: 2rem;
+}
+.contenido {
+    display: flex;
+    margin: 10px;
+}
+
+.princ1 {
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-right: 200px;
+    text-align: justify;
+    color: white;
+}
+
+.tituloprincipal {
+    margin-left: -300px;
+    font-family: Dosis;
+    font-size: 20pt;
+}
+
+.title1 {
+    margin-top: 70px;
+    font-family: Dosis;
+}
+
+.pt2{
+    margin-top: 50px;
+}
+.title2 {
+    margin-top: 50px;
+    font-family: Dosis;
+}
+
+.contenido {
+    background-image: url(./imagenes/abre-ruta-antioquia.jpg);
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
